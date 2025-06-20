@@ -1,0 +1,14 @@
+#Forma de ignorar directorios de configuraciom
+.vscode
+
+#Forma de ignorar un archivo
+texto_ignorado.txt 
+
+#Forma de ignorar una carpeta
+archivosIgnorados/* 
+#Forma de ignorar archivos especificos dentro de una carpeta
+*otraCarpeta/*.json 
+
+#Forma de ignorar carpetas anidades o rutas
+*carpetaPadre/**/*.txt 
+
